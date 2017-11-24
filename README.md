@@ -1,5 +1,6 @@
 Sprite.js is a powerful, easy-to-use Sprite animation library for HTML5 Canvas.
 
+Spite.js 是一个基于HTML5的 Canvas 动画库，可以用于很多图形项目
 Two classes are provided:
 
  - **SpriteMap**: Manages multiple animation sequences in a sprite sheet.
